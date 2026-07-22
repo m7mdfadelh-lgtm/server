@@ -1,1 +1,1 @@
-devlikeapro/waha:latest
+FROM devlikeapro/waha:noweb-arm
